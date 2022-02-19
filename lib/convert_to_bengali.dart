@@ -1,4 +1,4 @@
-library convert_to_bengali;
+library bangla_utils;
 
 /// A Calculator.
 class Calculator {

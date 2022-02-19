@@ -1,7 +1,8 @@
 name: bangla_utils
-description: A new Flutter package project.
+description: Package for Bengali Cool dudes.
 version: 0.0.1
-homepage:
+homepage: https://www.linkedin.com/in/tusharhow/
+repository: https://github.com/tusharhow/bangla_utils
 
 environment:
     sdk: ">=2.16.0 <3.0.0"
