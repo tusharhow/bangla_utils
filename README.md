@@ -11,9 +11,6 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages). 
 -->
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
-
 ## Features
 
 TODO: List what your package can do. Maybe include images, gifs, or videos.
@@ -25,11 +22,10 @@ start using the package.
 
 ## Usage
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder. 
+Create an instance of BanglaUtility and use.
 
 ```dart
-const like = 'sample';
+BanglaUtitility banglaUtitility = BanglaUtitility();
 ```
 
 ## Additional information
